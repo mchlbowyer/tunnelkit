@@ -3,8 +3,8 @@
 ![tvOS 17+](https://img.shields.io/badge/tvos-17+-green.svg)
 [![License GPLv3](https://img.shields.io/badge/license-GPLv3-lightgray.svg)](LICENSE)
 
-[![Unit Tests](https://github.com/passepartoutvpn/tunnelkit/actions/workflows/test.yml/badge.svg)](https://github.com/passepartoutvpn/tunnelkit/actions/workflows/test.yml)
-[![Release](https://github.com/passepartoutvpn/tunnelkit/actions/workflows/release.yml/badge.svg)](https://github.com/passepartoutvpn/tunnelkit/actions/workflows/release.yml)
+[![Unit Tests](https://github.com/mchlbowyer/tunnelkit/actions/workflows/test.yml/badge.svg)](https://github.com/mchlbowyer/tunnelkit/actions/workflows/test.yml)
+[![Release](https://github.com/mchlbowyer/tunnelkit/actions/workflows/release.yml/badge.svg)](https://github.com/mchlbowyer/tunnelkit/actions/workflows/release.yml)
 
 # TunnelKit
 
@@ -140,7 +140,7 @@ for macOS.
 
 Download the library codebase locally:
 
-    $ git clone https://github.com/passepartoutvpn/tunnelkit.git
+    $ git clone https://github.com/mchlbowyer/tunnelkit.git
 
 There are demo targets containing a simple app for testing the tunnels. Open `Demo/TunnelKit.xcodeproject` in Xcode and run it.
 
